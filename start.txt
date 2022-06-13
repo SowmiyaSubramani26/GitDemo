@@ -1,0 +1,18 @@
+Pwd
+Mkdir training-projects
+ls
+Cd training-projects
+pwd
+Git version
+git config --global user.name "username"
+git config --global user.email "emailid"
+git config --global --list
+git clone copy paste the http url
+ls
+git status
+echo "test git quick start demo" >> start.txt 
+ls
+cat start.txt 
+git status 
+git add start.txt
+git commit -m "Description"
